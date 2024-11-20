@@ -1,6 +1,8 @@
 ## Hello World 👋
 ## Curs de programacio 24/25
 ### Teacher: Guillem
+### Jugador profesional del solitario en clase
+
 <!--
 **Dassip-mr/Dassip-mr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
