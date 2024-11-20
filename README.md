@@ -1,4 +1,4 @@
-## Hello World 👋
+## print: 'Hello World 👋'
 ## Curs de programacio 24/25
 ### Teacher: Guillem
 <!--
